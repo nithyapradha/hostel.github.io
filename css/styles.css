@@ -69,6 +69,21 @@ ul.serve {
 }
 
 
+div.blink {
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  margin-bottom: 30px;
+  background-color: #ed7703;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: #dca706;}
+}
 
 
 #map {
