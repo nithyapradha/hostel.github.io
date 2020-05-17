@@ -63,6 +63,14 @@ ul.serve {
   }
 
 
+.headercolor{
+	
+	color: #9a5d05;
+}
+
+
+
+
 #map {
      height: 600px;  /* The height is 400 pixels */
      width: 100%;  /* The width is the width of the web page */
@@ -1707,7 +1715,7 @@ pre code {
 .table td {
   padding: 0.75rem;
   vertical-align: top;
-  border-top: 1px solid #dee2e6;
+  border-bottom: 1px solid #dee2e6;
 }
 .table thead th {
   vertical-align: bottom;
